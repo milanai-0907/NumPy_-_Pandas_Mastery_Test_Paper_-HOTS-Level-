@@ -1,12 +1,12 @@
-# 📊 NumPy & Pandas
+#  NumPy & Pandas
 
 Welcome to my **NumPy & Pandas** repository! This repository contains practice exercises, examples, and mini-projects that demonstrate the core concepts of NumPy and Pandas for efficient numerical computing and data analysis using Python.
 
-## 🚀 About
+##  About
 
 The goal of this repository is to build a strong foundation in data manipulation, numerical operations, and data preprocessing by solving practical problems using NumPy and Pandas.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### NumPy
 - Array Creation and Indexing
@@ -33,7 +33,7 @@ The goal of this repository is to build a strong foundation in data manipulation
 - Date & Time Operations
 - Data Visualization with Pandas
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -41,7 +41,7 @@ The goal of this repository is to build a strong foundation in data manipulation
 - Matplotlib
 - Jupyter Notebook
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 NumPy-Pandas/
@@ -64,11 +64,11 @@ NumPy-Pandas/
 └── README.md
 ```
 
-## 🎯 Objective
+##  Objective
 
 This repository serves as a learning resource and portfolio showcasing my understanding of NumPy and Pandas through hands-on exercises and real-world data analysis tasks. It focuses on writing efficient code, preparing datasets, and performing meaningful data analysis.
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 By working through this repository, I have developed skills in:
 
@@ -79,14 +79,13 @@ By working through this repository, I have developed skills in:
 - Transforming and aggregating data
 - Preparing data for exploratory analysis and machine learning
 
-## 🤝 Contributions
+##  Contributions
 
 Suggestions and improvements are always welcome. Feel free to fork the repository, open an issue, or submit a pull request.
 
-## ⭐ Support
+##  Support
 
 If you find this repository helpful, consider giving it a ⭐ to support my learning journey.
 
 ---
 
-**Happy Learning & Happy Coding! 🚀**
